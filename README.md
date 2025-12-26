@@ -37,7 +37,7 @@ The API allows creating, listing, searching, and deleting clans.
 - **Live URL:** https://data-engineer-xjxn.onrender.com
 - **Documentation:** https://data-engineer-xjxn.onrender.com/docs
 
-![API Screenshot](api_screenshot.png)
+
 
 ## 📊 Part 2: DBT Model & Visualization
 - **Data Warehouse:** Google BigQuery.
@@ -48,7 +48,8 @@ The API allows creating, listing, searching, and deleting clans.
 - **DAU & Revenue:** Aggregated by Country and Platform to track daily performance.
 - **Game Balance:** Win/Defeat ratios calculated to monitor game difficulty.
 
-![Dashboard Screenshot](first_graph.jpeg)
+<img width="1082" height="673" alt="image" src="https://github.com/user-attachments/assets/ec5019c6-4eb7-4b07-b9c8-90780f747916" />
+
 
 ## 🛠️ How to Run Locally
 1. Clone the repo.
